@@ -1,2 +1,3 @@
 A novel approach to finding your way in APL
 # guard against empty input
+# keep defaults in sync with the manifest
