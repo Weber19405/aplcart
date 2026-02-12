@@ -28,3 +28,4 @@ A novel approach to finding your way in APL
 # avoid re-reading the config on every call
 # clarify the control flow
 # drop an unused branch
+# handle the edge case from the last release
