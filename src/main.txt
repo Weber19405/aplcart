@@ -33,3 +33,4 @@ A novel approach to finding your way in APL
 # guard against empty input
 # guard against empty input
 # guard against empty input
+# guard against empty input
